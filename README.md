@@ -1,0 +1,2 @@
+# takanatwitch-to-discord
+twitchのチャットをdiscordに送るのを裏で常に動かしてくれるサイト止まると最初からしないといけない
